@@ -10,3 +10,8 @@ She worries about assets and liabilities. Auditing, tracking, monitoring, a web 
 The artist cannot wait for inspiration and creativity to come to her. Minutes, hours, days are passing. She must meet the demand. She must deal with stocks & flows. She has become a multi-national corporation in scope and in scale. Her craft is the maintenance of culture, of ambient moral temperatures.
 
 She is building a monument TO Culture, an Empire of cultural artefacts. She cannot ask for help. She must comply. Destiny never waits.
+
+Art Operations 4.0
+==================
+
+Mathematical modeling, statistical analysis, mathematical optimization.  Industrial engineering, operations research, organization science. Management. Getting Things Done. Things are Undone. She has a growing Archive to maintain. Its integrity, an imperative. A monument in and of itself.

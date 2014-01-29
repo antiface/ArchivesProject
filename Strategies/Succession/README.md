@@ -22,3 +22,4 @@ Succession Strategies
 * Latin 'successus': Climbed, having been climbed;
     * Can one 'succeed' a Ladder or a Mountain? See: Ascent, Ascendancy, Upward Mobility, Distinction, Class, Grades, Gradient, Gamuts, Scales, 'scala paradisi', the Great Monochord.
 * SUCCESSION STARTS LOCALLY, AT THE MOST ATOMIZED PART/PARTICLE AND MOVES ONWARD WITH DIRECTIONAL MOTILITY (TANGENTIALLY) AS WELL AS RADIATING OUTWARD (RADIALLY).
+* See: CultureSpheres, BeingBalls, CultureBalls, Mobile RadioPeopleBalls.

@@ -1,4 +1,4 @@
-The Archives Project
+The Archives Project ![] (https://zenodo.org/badge/doi/10.5281/zenodo.9878.png)
 ====================
 
 * [OPERATIONS] (https://github.com/antiface/ArchivesProject/tree/master/Operations)

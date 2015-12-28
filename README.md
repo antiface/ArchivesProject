@@ -1,11 +1,11 @@
-The Archives Project ![] (https://zenodo.org/badge/doi/10.5281/zenodo.9878.png)
+The Archives-Project ![] (https://zenodo.org/badge/doi/10.5281/zenodo.9878.png)
 ====================
 
 * [OPERATIONS] (https://github.com/antiface/ArchivesProject/tree/master/Operations)
     * [PROJECTS] (https://github.com/antiface/ArchivesProject/tree/master/Operations/Projects)
 * [STRATEGIES] (https://github.com/antiface/ArchivesProject/tree/master/Strategies)
 
-The Archives Project. The artist strives to remain current, to retain her currency, to be genuine and genuinely contemporary. A contemporary, the artist seeks to stay true to her time. The art grows old, the artist sees all things pass. Her art is an Art of Passage. She is an Artist of Passage. A Figure which Restores hope, perhaps, upon her passing.
+The Archives-Project. The artist strives to remain current, to retain her currency, to be genuine and genuinely contemporary. A contemporary, the artist seeks to stay true to her time. The art grows old, the artist sees all things pass. Her art is an Art of Passage. She is an Artist of Passage. A Figure which Restores hope, perhaps, upon her passing.
 
 The contemporary artist is driven to scale her art practise. Production must never cease, must run smoothly. Her art, become a full-time business, grows Lean, Agile. Operations are scaling up to industrial scale. The daily business of her industry engulfs her.
 

@@ -1,9 +1,9 @@
-The Archives-Project ![] (https://zenodo.org/badge/doi/10.5281/zenodo.9878.png)
+The Archives-Project ![](https://zenodo.org/badge/doi/10.5281/zenodo.9878.png)
 ====================
 
-* [OPERATIONS] (https://github.com/antiface/ArchivesProject/tree/master/Operations)
-    * [PROJECTS] (https://github.com/antiface/ArchivesProject/tree/master/Operations/Projects)
-* [STRATEGIES] (https://github.com/antiface/ArchivesProject/tree/master/Strategies)
+* [OPERATIONS](https://github.com/antiface/ArchivesProject/tree/master/Operations)
+    * [PROJECTS](https://github.com/antiface/ArchivesProject/tree/master/Operations/Projects)
+* [STRATEGIES](https://github.com/antiface/ArchivesProject/tree/master/Strategies)
 
 The Archives-Project. The artist strives to remain current, to retain her currency, to be genuine and genuinely contemporary. A contemporary, the artist seeks to stay true to her time. The art grows old, the artist sees all things pass. Her art is an Art of Passage. She is an Artist of Passage. A Figure which Restores hope, perhaps, upon her passing.
 
@@ -20,7 +20,6 @@ Art Operations 4.0
 
 ...great things to come...
 
-## [BACK TO INDEX OF REPOSITORIES] (https://github.com/antiface/Index)
+## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
 
-[A.G. (c) 2016. ![A.G. (c) 2016. All Rights Reserved]
-(https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
+[A.G. (c) 2016. ![A.G. (c) 2016. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)

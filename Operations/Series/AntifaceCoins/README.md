@@ -2,7 +2,7 @@ AntifaceCoins
 =============
 * 1 AntifaceCoin:
 
-![1 AntifaceCoin](https://historiotheque.files.wordpress.com/2021/03/antifacenote_06feb14b.jpg)
+![1 AntifaceCoin](https://historiotheque.files.wordpress.com/2021/03/antifacecoind2014d.jpg)
 
 * AntifaceCoins are Unique and Reversible.
 * One either has 1 or 0 AntifaceCoins.

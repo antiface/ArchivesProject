@@ -13,7 +13,7 @@ AntifaceCoins
 Procedural Signatures
 ---------------------
 * The Noise Field Painting - Ambient, Iterated, Experimental
-![NoiseField] (http://chumly.com/file/al/alex.20140210T174453.x28q7xx.jpeg)
+![NoiseField](https://historiotheque.files.wordpress.com/2021/03/ntp_14feb14a.jpg)
 
 * This Noise Field Painting is an example of what could in theory by a unique "Coin-like" object.
 * That is, it would a) have value and b) be a unique, rare collectible.

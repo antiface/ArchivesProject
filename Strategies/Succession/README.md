@@ -23,3 +23,9 @@ Succession Strategies
     * Can one 'succeed' a Ladder or a Mountain? See: Ascent, Ascendancy, Upward Mobility, Distinction, Class, Grades, Gradient, Gamuts, Scales, 'scala paradisi', the Great Monochord.
 * SUCCESSION STARTS LOCALLY, AT THE MOST ATOMIZED PART/PARTICLE AND MOVES ONWARD WITH DIRECTIONAL MOTILITY (TANGENTIALLY) AS WELL AS RADIATING OUTWARD (RADIALLY).
 * See: CultureSpheres, BeingBalls, CultureBalls, Mobile RadioPeopleBalls.
+
+- - - - - - - - - -
+
+## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
+
+[A.G. (c) 2024. ![A.G. (c) 2024. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)

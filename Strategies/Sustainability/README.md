@@ -21,3 +21,9 @@ Gotcha! You would know that already if you were a Professional Painter, and this
 I'm Painting a Digital Portrait of YOU, dear Reader! Isn't It Great? Yes? No? Go check in the mirror. Next time you see Bitch Face in the Mirror or think you are very ugly, think of something funny and keep thinking of ways to make yourself laugh until you succeed. There has to be at least one human possessed with laughter at any given time. But if everyone laughs all the time, we risk losing laughter all in one shot, in one cascade of laughter that ends in Civilization being destroyed. So be careful when you decide to use the limited resource of our very precious Human Laughter. But don't fall into Hyper-Solemnity either for too long.
 
 This has been the Grotesque and Wicked Carnavalesque passed onto us by one Rabelais et al. Professional Finger-Pointers and Presenters of Brothel-Paintings and Stinky Pianos and Publication Barns.
+
+- - - - - - - - - -
+
+## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
+
+[A.G. (c) 2024. ![A.G. (c) 2024. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
